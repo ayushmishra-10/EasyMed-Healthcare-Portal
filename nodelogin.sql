@@ -58,7 +58,7 @@ CREATE TABLE `complain` (
   `message` varchar(500) NOT NULL,
   `name` varchar(50) NOT NULL,
   `email` varchar(20) NOT NULL,
-  `subject` varchar(50) NOT NULL
+  `subject` varchar(100) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
