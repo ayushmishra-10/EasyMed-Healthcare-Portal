@@ -1,3 +1,5 @@
+## STILL IN PROGRESS ##
+
 # EasyMed-Healthcare-Management-System
 
 A hospital management system using nodejs , express , mysql , ejS
